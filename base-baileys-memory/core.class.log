@@ -1,0 +1,483 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A43D632EB68DF86F6B8',
+    participant: undefined
+  },
+  messageTimestamp: 1729217408,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  keyword: 'key_89b4aa11-b3bf-4633-a517-763abf764421',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a5ff355f457c255823eb44e55b85aaeb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb4fc3cf-1dd2-4758-8dea-243166b6f740',
+  keyword: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7bf478a4afb8e3d0c13895466b5d3247'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAC5CCADE2F09EC6080',
+    participant: undefined
+  },
+  messageTimestamp: 1729217416,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe646e06-328b-4f37-9a11-6dbc684e871c',
+  keyword: 'ans_f06c3941-60bc-4cc5-99d0-a66168338e09',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2cc557290a72b12ba9582c61d266ea62'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE2081198498201A0F9',
+    participant: undefined
+  },
+  messageTimestamp: 1729217437,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6de0afb3-a204-4a1b-abc9-0a6714e36175',
+  keyword: 'ans_69864282-0324-4d16-a169-70216f08138d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be308c13150596773195e1fe56f8213e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABEF9895A26CE365EF7',
+    participant: undefined
+  },
+  messageTimestamp: 1729217446,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '573212375438'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABDA68CCC123469894A',
+    participant: undefined
+  },
+  messageTimestamp: 1729217451,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  keyword: 'key_89b4aa11-b3bf-4633-a517-763abf764421',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a5ff355f457c255823eb44e55b85aaeb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb4fc3cf-1dd2-4758-8dea-243166b6f740',
+  keyword: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7bf478a4afb8e3d0c13895466b5d3247'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A693F9B9AA8A27CCE6A',
+    participant: undefined
+  },
+  messageTimestamp: 1729217461,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe646e06-328b-4f37-9a11-6dbc684e871c',
+  keyword: 'ans_f06c3941-60bc-4cc5-99d0-a66168338e09',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2cc557290a72b12ba9582c61d266ea62'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0C3C3651D002356FD1',
+    participant: undefined
+  },
+  messageTimestamp: 1729217464,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'dsadsads',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'dsadsads',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a22e6ec-d1b3-4693-bd27-5f176418b1e8',
+  keyword: 'ans_3bc41d1b-4f34-4c93-91ba-8264dc6bdaa9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c68a30a5369c047431aae31f15043122'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8CF7CAE5FD751841E5',
+    participant: undefined
+  },
+  messageTimestamp: 1729217662,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  keyword: 'key_89b4aa11-b3bf-4633-a517-763abf764421',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a5ff355f457c255823eb44e55b85aaeb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb4fc3cf-1dd2-4758-8dea-243166b6f740',
+  keyword: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7bf478a4afb8e3d0c13895466b5d3247'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8199F3C00DF1F05609',
+    participant: undefined
+  },
+  messageTimestamp: 1729217669,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe646e06-328b-4f37-9a11-6dbc684e871c',
+  keyword: 'ans_f06c3941-60bc-4cc5-99d0-a66168338e09',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2cc557290a72b12ba9582c61d266ea62'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8F1F45BCF80519F301',
+    participant: undefined
+  },
+  messageTimestamp: 1729217680,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  keyword: 'key_89b4aa11-b3bf-4633-a517-763abf764421',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a5ff355f457c255823eb44e55b85aaeb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb4fc3cf-1dd2-4758-8dea-243166b6f740',
+  keyword: 'ans_99313358-58ac-4c51-9b80-5685946718f9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7bf478a4afb8e3d0c13895466b5d3247'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212375438@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABEF9B7E11CEEDA7089',
+    participant: undefined
+  },
+  messageTimestamp: 1729217687,
+  pushName: 'Andres Felipe Chia Avila',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '573212375438'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe646e06-328b-4f37-9a11-6dbc684e871c',
+  keyword: 'ans_f06c3941-60bc-4cc5-99d0-a66168338e09',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2cc557290a72b12ba9582c61d266ea62'
+}
